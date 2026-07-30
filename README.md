@@ -1,4 +1,4 @@
-# Foxtail Millet (Setaria italica) Morphological Analysis
+# Foxtail Millet (*Setaria italica*) Morphological Analysis
 
 This repository contains the analysis scripts for the morphological classification of foxtail millet (*Setaria italica*) landraces collected from the Kucapungane (Houcha) tribe in Taiwan.
 
